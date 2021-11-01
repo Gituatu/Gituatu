@@ -4,7 +4,7 @@
 <h3 align="center">A technology geek and a open source developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gituatu&label=Profile%20views&color=0e75b6&style=flat" alt="gituatu" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F367887863292784985%2F&psig=AOvVaw03gkLgXuhy2UmgJUqZdS32&ust=1635870200579000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjd-aTK9_MCFQAAAAAdAAAAABAD">
 - 📫 Reach me "koushikknw@gmail.com"
 
 <h3 align="left">Connect with me:</h3>

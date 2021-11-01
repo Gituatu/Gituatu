@@ -1,10 +1,10 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1639008000&v=beta&t=BWvsqjIVnIKpjYocWZJQz6CKeyahHC6WDPqE6_Lpo20)](https://Gituatu.github.io)
+
 
 <h1 align="center">Hi 👋, I'm Koushik Saha</h1>
 <h3 align="center">A technology geek and a open source developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gituatu&label=Profile%20views&color=0e75b6&style=flat" alt="gituatu" /> </p>
-<img align="right" alt="Coding" src="https://i.gifer.com/Xi5i.gif">
+<img align="right" src=(https://i.gifer.com/Xi5i.gif)>
 - 📫 Reach me "koushikknw@gmail.com"
 
 <h3 align="left">Connect with me:</h3>
